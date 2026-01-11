@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Basil 👋
 
-<!--
-**basilmohd/basilmohd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a UI Architect and Senior Frontend Engineer with 9+ years of experience
+building scalable, secure, and high-performance web applications in
+enterprise and banking domains.
 
-Here are some ideas to get you started:
+### What I work on
+- Designing frontend architecture for large-scale applications
+- Building reusable UI component libraries and design systems
+- Developing Angular and React applications with TypeScript
+- Backend-for-Frontend (BFF) services using Node.js and Express
+- Performance optimization (lazy loading, bundle optimization, SSR readiness)
+- Secure authentication flows using JWT and OAuth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Frontend: Angular, React, TypeScript, JavaScript, HTML, CSS
+- Backend: Node.js, Express, REST APIs
+- Architecture: Micro-frontends, UI architecture, design systems
+- Tooling: Git, CI/CD, Webpack, esbuild
+- Cloud & DevOps: AWS, Docker
+
+### Focus Areas
+UI Architecture • Scalability • Performance • Code Quality • Developer Experience
+
+### What I am currently learning
+ - Agentic AI implementataion with Langchain and Crew AI
+ - Angular Universal
+ - Next.js
+
+
