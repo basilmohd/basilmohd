@@ -2,7 +2,7 @@
 
 I'm a UI Architect and Senior Frontend Engineer with 9+ years of experience
 building scalable, secure, and high-performance web applications in
-enterprise and banking domains.
+enterprise and banking domains. Getting my hands dirty in the AI/ML space recently
 
 ### What I work on
 - Designing frontend architecture for large-scale applications
